@@ -18,7 +18,7 @@ The dashboard converts raw transactional data into actionable business insights,
 # 📸 Dashboard Preview
 
 <p align="center">
-<img src="images//dashboard_preview.png" width="100%">
+<img src="images//dashboard.png" width="100%">
 </p>
 
 ---
